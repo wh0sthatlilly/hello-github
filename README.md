@@ -33,5 +33,5 @@ The program prints **"Hello, World!"** to the screen, which is a common first st
 1. Ensure Python is installed on your system  
 2. Clone the repository:
    ```bash
-   git clone https://github.com/YOURUSERNAME/REPOSITORY-NAME
+   git clone (https://github.com/wh0sthatlilly/hello-github)
 
